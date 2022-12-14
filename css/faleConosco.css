@@ -1,0 +1,19 @@
+.faleConosco{
+    height: 15vh;
+}
+.conteudo{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.conteudo h2{
+    color: #fff;
+    font-size: 2em;
+    font-weight: 500;
+}
+.conteudo input{
+    height: 50%;
+    width:  30%;
+    padding: 10px;
+}

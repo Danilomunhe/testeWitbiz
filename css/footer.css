@@ -1,0 +1,9 @@
+footer{
+    height: 10vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(141, 139, 139);
+}

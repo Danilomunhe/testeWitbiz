@@ -1,0 +1,49 @@
+.contatos{
+    height: 40vh;
+    background-color: #fff;
+    display: flex;
+}
+.container-contatos{
+    display: flex;
+    width: 100%;
+    gap: 20%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.quemSomos{
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+
+}
+.quemSomos h2{
+    color: #001e5a;
+    font-size: 2em;
+    font-weight: 900;
+}
+.informacoes{
+    display: flex;
+    gap: 10%;
+    width: 100%;
+}
+.informacao{
+    width: 70%;
+}
+.informacao h2{
+    color: #000;
+    font-weight: bold;
+    font-size: 2em;
+    
+}
+.informacao ul{
+    padding-top: 15%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.informacao ul li{
+    font-size: 1.4em;
+    color: #aaa;
+}
