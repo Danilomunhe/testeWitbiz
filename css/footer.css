@@ -7,3 +7,9 @@ footer{
     padding-right: 5%;
     color: rgb(141, 139, 139);
 }
+@media (max-width:720px){
+    footer{
+        height: 20vh;
+        align-items: center;
+    }
+}

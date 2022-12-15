@@ -22,6 +22,12 @@
     font-size: 3em;
     font-weight: bolder;
 }
+.quemSomos p{
+    color: #aaa;
+    width: 90%;
+    font-size: 1.3em;
+    font-weight: 400;
+}
 .informacoes{
     display: flex;
     gap: 10%;
@@ -46,4 +52,27 @@
 .informacao ul li{
     font-size: 1.4em;
     color: #aaa;
+}
+.icons{
+    display: flex;
+    gap:5%;
+}
+.icons > a{
+    font-size: 2em;
+    color: #aaa;
+    transition: all linear 0.5s;
+}
+
+.icons > a:hover{
+    font-size: 2em;
+    color: #001e5a;
+}
+
+@media (max-width:720px){
+    .contatos{
+        flex-direction: column;
+    }
+    .informacoes{
+        display: none;
+    }
 }
