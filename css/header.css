@@ -7,7 +7,8 @@ header{
     color: #fff;
 }
 .logo{
-    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
     font-size: 2rem;
 }
 .menu{

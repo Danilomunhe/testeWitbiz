@@ -12,14 +12,15 @@
     justify-content: center;
     align-items: flex-start;
     color: #fff;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Prompt', sans-serif;
 }
 
 .texto-home h1{
-    font-weight: 900;
     font-size: 2.3em;
     margin-left: 11%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
+    letter-spacing: 2px;
 }
 
 .texto-home span{
